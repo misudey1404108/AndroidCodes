@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListViewSearch</string>
+    <string-array name="country_names">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>SriLanka</item>
+        <item>USA</item>
+
+
+
+    </string-array>
+</resources>
